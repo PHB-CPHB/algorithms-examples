@@ -1,6 +1,6 @@
 # Compiled class file
 *.class
-
+.projectKnowledge/
 # Log file
 *.log
 
@@ -23,3 +23,19 @@ hs_err_pid*
 /root-examples/nbproject/private/
 /root-examples/build/
 /root-examples/dist/
+*/target/
+*/nbproject/
+*/.idea/
+*/dist/
+*.iml
+.DS_Store
+build.xml
+manifest.mf
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+nbactions.xml
+
